@@ -1,1 +1,2 @@
 this is feature branchs 1
+this is the commit msg from your teamate
